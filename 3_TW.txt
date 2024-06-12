@@ -1,0 +1,9 @@
+Initial Balance: 1000
+Goal: 10000
+Income  Salary  1/1/2022    100000 
+Expense Fees    2/1/2022    5000
+Expense Groceries   3/1/2022    5000
+Expense Liquor  4/1/2022    20000
+Expense Fine    6/1/2022    25000
+Income  Sidebussiness   7/1/2022    20000
+Expense Date    10/1/2022   6000
